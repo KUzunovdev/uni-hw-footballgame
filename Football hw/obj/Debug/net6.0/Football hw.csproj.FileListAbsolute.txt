@@ -1,0 +1,15 @@
+D:\class\C# + GUI\Football hw\Football hw\bin\Debug\net6.0\Football hw.exe
+D:\class\C# + GUI\Football hw\Football hw\bin\Debug\net6.0\Football hw.deps.json
+D:\class\C# + GUI\Football hw\Football hw\bin\Debug\net6.0\Football hw.runtimeconfig.json
+D:\class\C# + GUI\Football hw\Football hw\bin\Debug\net6.0\Football hw.dll
+D:\class\C# + GUI\Football hw\Football hw\bin\Debug\net6.0\Football hw.pdb
+D:\class\C# + GUI\Football hw\Football hw\obj\Debug\net6.0\Football hw.csproj.AssemblyReference.cache
+D:\class\C# + GUI\Football hw\Football hw\obj\Debug\net6.0\Football hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\class\C# + GUI\Football hw\Football hw\obj\Debug\net6.0\Football hw.AssemblyInfoInputs.cache
+D:\class\C# + GUI\Football hw\Football hw\obj\Debug\net6.0\Football hw.AssemblyInfo.cs
+D:\class\C# + GUI\Football hw\Football hw\obj\Debug\net6.0\Football hw.csproj.CoreCompileInputs.cache
+D:\class\C# + GUI\Football hw\Football hw\obj\Debug\net6.0\Football hw.dll
+D:\class\C# + GUI\Football hw\Football hw\obj\Debug\net6.0\refint\Football hw.dll
+D:\class\C# + GUI\Football hw\Football hw\obj\Debug\net6.0\Football hw.pdb
+D:\class\C# + GUI\Football hw\Football hw\obj\Debug\net6.0\Football hw.genruntimeconfig.cache
+D:\class\C# + GUI\Football hw\Football hw\obj\Debug\net6.0\ref\Football hw.dll
